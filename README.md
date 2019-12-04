@@ -12,7 +12,7 @@ Let's Build a Multi-Purpose Laravel + Vue Application is out now. In this series
 
 Here are the things you will learn in this series and what the repo include out of the box:
 
-U+02713 How use Vue Router with Laravel
+&#8605; How use Vue Router with Laravel
 -How to Install AdminLTE 3
 -How to Use Font Awesome 5 on Laravel
 -How integrate mailchimp with laravel
