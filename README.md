@@ -26,7 +26,7 @@ Here are the things you will learn in this series and what the repo include out 
 --And much more...
 <br><br>
 
-## Project Description
+## Installation
 It's just like any other Laravel project. Basically here is how you use it for yourself. (it's not completed yet)
 
 Clone the repo git clone https://github.com/joyantabd/Vue.js-Starter-Project <br>
